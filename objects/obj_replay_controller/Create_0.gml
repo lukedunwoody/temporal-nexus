@@ -1,0 +1,9 @@
+global.replay_data    = [];       // will hold structs { list, time }
+record_total_time     = 0;        // cumulative real-time during recording
+record_next_time      = 1;        // the next real-time boundary to snap
+play_time             = 0;        // “real-time” during playback
+global.replay_index   = 0;        // base index into replay_data
+global.replay_playing = false;    // start in record mode
+accumulated_time = 0
+replay_timer = 0
+global.replay_timer_started = false

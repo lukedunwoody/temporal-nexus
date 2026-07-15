@@ -1,0 +1,1 @@
+if global.shoot_key instance_destroy()
