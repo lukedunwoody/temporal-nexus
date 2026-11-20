@@ -4,13 +4,13 @@ A top-down 2D shooter built with GameMaker Studio 2.
 
 ## About
 
-Originally completed in May 2025 for the DPCDSB Game Development Contest.
+Originally completed in May 2025 for the DPCDSB Game Development Contest, where it earned an honourable mention and placed in the top 10.
 
 Built entirely in GameMaker Studio 2.
 
 ## Preview
 
-![Preview](screenshots/gameplay_3.png)
+![Preview](screenshots/gameplay_1.png)
 
 ## Features
 
